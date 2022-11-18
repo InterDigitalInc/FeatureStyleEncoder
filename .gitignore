@@ -9,7 +9,6 @@ tmp/
 outputs/
 pretrained_models/
 RAFT/
-*npy
 *pth
 *jpg
 *JPG 

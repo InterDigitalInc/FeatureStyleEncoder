@@ -1,16 +1,6 @@
-models/
 logs/
-data/
 __pycache__/
-test/
 matshow/
 .ipynb_checkpoints/
 tmp/
-outputs/
-pretrained_models/
 RAFT/
-*pth
-*jpg
-*JPG 
-*png
-*PNG
